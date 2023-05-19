@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1325B0&width=435&lines=Hi+there%2C+I%60m+Mansur;I%60m+23+years+old)](https://git.io/typing-svg)
 
 ## Follow me:
-<br>
+
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/shishaneee)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/shishanee)
-<br>
+
 ## Languages & Tools:
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
