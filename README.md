@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1325B0&width=435&lines=Hi+there%2C+I%60m+Mansur;I%60m+23+years+old)](https://git.io/typing-svg)
+<alignitems="center" [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1325B0&width=435&lines=Hi+there%2C+I%60m+Mansur;I%60m+23+years+old)](https://git.io/typing-svg)
 
 ## Follow me:
 
