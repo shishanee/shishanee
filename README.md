@@ -1,15 +1,12 @@
 ### <h1 align="center" dir="auto" border-bottom="1px solid">Welcome! I'm Mansur <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image></h1>
-![](https://komarev.com/ghpvc/?username=Abubakar-Oz&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=shishanee&color=blueviolet&style=flat-square)
 
 ### <h2 dir="auto">I'm FrontEnd developer</h2> ###
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133"><img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133" data-canonical-src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" style="max-width: 100%;"></a></p>
 
 <p>✨ Currently I’m looking for a job as a Front-end developer ✨</p>
-<p>👨‍🎓 2nd year of study in the magistracy on the training profile "Software for computing systems and computer networks"</p>
-<p>📚 Also I’m currently studying NextJS and React Native</p>
 
-<br>
 
 <br>
 <hr>
@@ -58,14 +55,3 @@
 <h4 dir="auto"><a href="https://github.com/shishanee">📳 </a><a id="user-content-contate-me" class="anchor" aria-hidden="true" href="#contate-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contate-me:</h4>
 
 <p>
-<a class="padding-right:16px" href="https://t.me/+79288886489"><img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="telegram" width="25" height="25" title="telegram" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>  <a class="padding-right:16px" href="mailto:mansur72095@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" alt="mail.ru" width="25" height="25" title="mail" data-canonical-src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" style="max-width: 100%;"></a>  <a href="https://discord.com/channels/@Mansur Ibn-Ahmad#5869"><img src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="discord.com" width="25" height="25" title="discord" data-canonical-src="https://cdn.worldvectorlogo.com/logos/discord.svg" style="max-width: 100%;"></a>
-<a href="https://wa.me/<+79288886489>"><img src="https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg" alt="whatsapp" width="25" height="25" title="whatsapp" data-canonical-src="https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg" style="max-width: 100%;"></a>
-</p>
-
-<br>
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shishanee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishanee&theme=tokyonight&layout=compact" />
