@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=shishanee&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile views">
+<img align="right" src="https://komarev.com/ghpvc/?username=shishanee&style=flat&color=blue&label=PROFILE+VIEWS" alt="Profile views">
 
 <div align="center">
 <h3>Hey! My name is Mansur</h3> 
@@ -8,7 +8,7 @@
 <div align="center">
   <div> How to reach me: </div>
   <br/>
-  <a href="https://t.me/shishanee">
+  <a href="https://t.me/shishaneee">
   <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
 </div>
