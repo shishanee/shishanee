@@ -1,6 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1325B0&width=435&lines=Hi+there%2C+I%60m+Mansur;I%60m+23+years+old)](https://git.io/typing-svg)
+<img align="right" src="https://komarev.com/ghpvc/?username=shishanee&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile views">
 
-## Follow me:
+<div align="center">
+<h3>Hey! My name is Mansur</h3> 
+<h4>And I'm a passionate Front-End Developer that is always on the lookout for new challenges to develop and sharpen my skills.</h4>
+</div>
 
-[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/shishaneee)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/shishanee)
+<div align="center">
+  <div> How to reach me: </div>
+  <br/>
+  <a href="https://t.me/shishanee">
+  <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" />
+</a>
+</div>
+<br/>
+
+  
+<details>
+  <summary>⚙️ &nbsp;GitHub Analytics</summary>
+    <br/>
+    <div align="center">
+<img alt="Mansur's github stats" height="150px"  src="https://github-readme-stats.vercel.app/api?username=shishanee&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/thebestdevelopering" />
+<img alt="Top Langs" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishanee&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/shishanee" />
+    </div>
+</details>
