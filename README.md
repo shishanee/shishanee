@@ -22,7 +22,6 @@
   <summary>⚙️ &nbsp;GitHub Analytics</summary>
     <br/>
     <div align="center">
-<img alt="Mansur's github stats" height="150px"  src="https://github-readme-stats.vercel.app/api?username=shishanee&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/thebestdevelopering" />
 <img alt="Top Langs" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishanee&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/shishanee" />
     </div>
 </details>
