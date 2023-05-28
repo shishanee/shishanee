@@ -16,7 +16,7 @@
 </a>
 </div>
 <br/>
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
