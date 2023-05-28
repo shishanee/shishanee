@@ -16,8 +16,7 @@
 </a>
 </div>
 <br/>
-## 💻 Tech Stack:
-<br/>
+
 
 
 <details>
