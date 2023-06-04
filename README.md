@@ -31,7 +31,7 @@
 <br>
 
 <div align="center">
-  <div> How to reach me: </div>
+<h4> How to reach me: </h4>
   <br/>
   <a href="https://t.me/shishaneee">
   <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" />
