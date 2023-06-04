@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=shishanee&style=flat&color=blue&label=PROFILE+VIEWS" alt="Profile views">
 
 <div align="center">
-<h3>Hey! My name is Mans</h3> 
+<h3>Hey! My name is Mansur</h3> 
   <a href="https://shishanee.github.io/portfolio2.github.io">
    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=up&logoColor=white" />
   </a>
