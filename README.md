@@ -55,8 +55,6 @@
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
                 alt="Node.js" width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass"
-                width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
                 width="48" />&nbsp;&nbsp;&nbsp
