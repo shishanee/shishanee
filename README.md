@@ -1,4 +1,4 @@
-<im align="right" src="https://komarev.com/ghpvc/?username=shishanee&style=flat&color=blue&label=PROFILE+VIEWS" alt="Profile views">
+<img align="right" src="https://komarev.com/ghpvc/?username=shishanee&style=flat&color=blue&label=PROFILE+VIEWS" alt="Profile views">
 
 <div align="center">
 <h2>Mansur Vitaev aka "shishanee"</h2> 
