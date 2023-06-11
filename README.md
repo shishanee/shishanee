@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=shishanee&style=flat&color=blue&label=PROFILE+VIEWS" alt="Profile views">
 
-<div align="center">
+<di align="center">
 <h2>Mansur Vitaev aka "shishanee"</h2> 
 <h4>And I'm a passionate Front-End Developer that is always on the lookout for new challenges to develop and sharpen my skills.</h4>
 </div>
