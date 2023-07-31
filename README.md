@@ -43,9 +43,7 @@
   <summary>⚙️ &nbsp;Projects</summary>
     <br/>
     <div align="center">
-    https://github.com/shishanee/IntoGym-Front
-      <br/>
-      https://github.com/shishanee/laram-shop
+      <h1>You can see all my projects in my repositories</h1>
     </div>
 </details>
 
