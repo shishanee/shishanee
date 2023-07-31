@@ -39,6 +39,14 @@
 </div>
 <br/>
 
+<details>
+  <summary>⚙️ &nbsp;Projects</summary>
+    <br/>
+    <div align="center">
+    https://github.com/shishanee/IntoGym-Front
+      https://github.com/shishanee/laram-shop
+    </div>
+</details>
 
 
 <h2>🧰 Languages and Tools</h2>
