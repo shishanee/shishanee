@@ -39,7 +39,7 @@
 </div>
 <br/>
 
-> [Приложение для онлайн магазина](https://github.com/shishanee/laram-shop)
+> [Приложение для онлайн магазина](https://github.com/shishanee/laram-shop) <br/>
 > [Приложение для социальной сети](https://github.com/shishanee/Social-Network-Front)
 
 
