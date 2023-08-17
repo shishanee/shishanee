@@ -39,13 +39,8 @@
 </div>
 <br/>
 
-<details>
-  <summary>⚙️ &nbsp;Projects</summary>
-    <br/>
-    <div align="center">
-      <h1>You can see all my projects in my repositories</h1>
-    </div>
-</details>
+> [Приложение для онлайн магазина](https://github.com/shishanee/laram-shop)
+> [Приложение для социальной сети](https://github.com/shishanee/Social-Network-Front)
 
 
 <h2>🧰 Languages and Tools</h2>
