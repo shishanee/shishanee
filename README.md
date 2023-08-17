@@ -39,8 +39,17 @@
 </div>
 <br/>
 
-> [Приложение для онлайн магазина](https://github.com/shishanee/laram-shop) <br/>
-> [Приложение для социальной сети](https://github.com/shishanee/Social-Network-Front)
+### My works:
+
+<b>➖ Clothing Store Laram</b>
+<br><b><kbd>Next JS</kbd><kbd>Redux Toolkit</kbd><kbd>Local Storage</kbd></b>
+<br><b>-[Repository](https://github.com/shishanee/laram-shop)</b>
+<br/>
+
+<b>➖ Social Network</b>
+<br><b><kbd>React</kbd><kbd>Redux Toolkit</kbd><kbd>React router</kbd><kbd>Local Storage</kbd></b>
+<br><b>-[Repository](https://github.com/shishanee/Social-Network-Front)</b>
+
 
 
 <h2>🧰 Languages and Tools</h2>
