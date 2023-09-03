@@ -38,7 +38,8 @@
 </a>
 </div>
 <br/>
-![CodeWars](https://www.codewars.com/users/shishanee/badges/large)
+[![codewars](https://www.codewars.com/users/shishanee/badges/large)](https://www.codewars.com/users/shishanee)   
+<br/>
 
 ### My works:
 
